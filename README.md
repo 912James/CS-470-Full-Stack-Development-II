@@ -8,9 +8,9 @@ The skills I leanred in this course we how to integrate a local application into
 The strengths that I poses as a software developer are that i am an extremely good problem solver. Another strength is that I am a leader and I have excellent communication skills in multiple languages that include spanish, english and portuguese. I consider myself to be a quick learner, while I might not have the answer, solution or experience at the beginning, I will adapt quickly and learn whatever is necessary or expected from me.
 
 ### Identify the types of roles you are prepared to assume in a new job.
-The role that I am prepared for are software engineering, full stack development, web development, using one of the languages i am most comfortable, C++, Python, and JavaScript.
+The roles that I am prepared for are software developer, full stack development, web development, using one of the languages I am most comfortable with, C++, Python, Java, and JavaScript.
 
-###Identify various ways that microservices or serverless may be used to produce efficiencies of management and scale in your web application in the future. Consider the following:
+##Identify various ways that microservices or serverless may be used to produce efficiencies of management and scale in your web application in the future. Consider the following:
 
 ### How would you handle scale and error handling?
 
@@ -26,3 +26,6 @@ The role that I am prepared for are software engineering, full stack development
 
 ### What roles do elasticity and pay-for-service play in decision making for planned future growth?
 
+
+### Youtube Video of my CS 470 Presentation for Cloud Development
+https://www.youtube.com/watch?v=HwBbejQkF9Y
