@@ -1,8 +1,8 @@
-# James Soto
-# 12-11-2023
+James Soto
+12-11-2023
 
-# CS-470-Full-Stack-Development-II
-# SNHU CS-470 Full Stack Development II
+CS-470-Full-Stack-Development-II
+SNHU CS-470 Full Stack Development II
 
 ## CS 470 Final Reflection
 
