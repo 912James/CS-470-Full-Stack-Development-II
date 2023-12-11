@@ -14,19 +14,21 @@ The roles that I am prepared for are software developer, full stack development,
 Consider the following:
 
 ###How would you handle scale and error handling?
-
+AWS Lambda automatically scales to meet demand, eliminates the need for manual scaling, and automatically handles errors through retries and dead letter queues. A microservices architecture is a type of application architecture where the application is developed as a collection of services. It provides the framework to develop, deploy, and maintain microservices architecture diagrams and services independently. Each microservice is independently scalable. When traffic increases for a specific service, you can scale it independently without affecting others.
 
 ### How would you predict the cost?
-
+Serverless bills per execution, making cost prediction relatively straightforward. AWS provides detailed billing reports and cost forecasting tools. Estimating costs can be complex due to the distributed nature of microservices. Tools like AWS Cost Management can help monitor and predict costs based on usage.
 
 ### What is more cost predictable, containers or serverless?
-
+Serverless eliminates infrastructure management, resulting in only paying for actual usage. Cost predictability is high since you use the pay for use model. Containers require provisioning and managing infrastructure, leading to potential underutilization and wasted resources. Cost predictability is moderate.
 
 ### Explain several pros and cons that would be deciding factors in plans for expansion.
+AWS serverless has a reduced overhead on the infrastructure management. Serverless is cost effective due to the pay per use model and it is also elestic and very scalable. The cons of using AWS serverless is that your application is tied to AWS. Another con would be the limited infrastructure control and the increased complexity of debugging. 
 
+Microservices is agile, scalable and has fast developemnt cycles. The cons are the increased complexity of developemnt and infrastrucutre management while containing a higher overhead on the operational management.
 
 ### What roles do elasticity and pay-for-service play in decision making for planned future growth?
-
+Both microservices and serverless offer elastic scaling, allowing applications to automatically adapt to changing demand and optimize resource utilization. Both microservices and serverless use pay-per-use models, removing the need for up-front infrastructure costs and only paying for actual resource consumption. Microservices and AWS serverless offer many advantages in terms of management efficiency and scalability. The choice between them depends on the specific application requirements, team expertise, budget, and scalability needs.
 
 ### Youtube Video of my CS 470 Presentation for Cloud Development
 https://www.youtube.com/watch?v=HwBbejQkF9Y
