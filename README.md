@@ -1,5 +1,10 @@
+# James Soto
+# 12-11-2023
+
 # CS-470-Full-Stack-Development-II
-## SNHU CS-470 Full Stack Development II
+# SNHU CS-470 Full Stack Development II
+
+## CS 470 Final Reflection
 
 ### What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
 The skills I leanred in this course we how to integrate a local application into the cloud using AWS services. We took a what we learned in Full Stack Development I, utilizing the frameworks to build the cloud architecture. Prior to this course I developed my code on local platforms. This course taught me all the foundational framerowrks that were needed to move into a cloud architecture which included containerization, the multiple cloud migration approcahes, docker and docker compose, serverless application development, Amazon S3 storage, APIs and Lambda using AWS services, DynamoDB, and elasticity. The website that was ultiamtely created is : http://snhu-s3staticwebsite.s3-website-us-east-1.amazonaws.com/
