@@ -1,6 +1,5 @@
 <br>James Soto<br>
 <br>12-11-2023<br>
-
 <br>CS-470-Full-Stack-Development-II<br>
 <br>SNHU CS-470 Full Stack Development II<br>
 
