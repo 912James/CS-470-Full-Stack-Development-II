@@ -13,7 +13,7 @@ The roles that I am prepared for are software developer, full stack development,
 ###Identify various ways that microservices or serverless may be used to produce efficiencies of management and scale in your web application in the future. 
 Consider the following:
 
-###How would you handle scale and error handling?
+##How would you handle scale and error handling?
 AWS Lambda automatically scales to meet demand, eliminates the need for manual scaling, and automatically handles errors through retries and dead letter queues. A microservices architecture is a type of application architecture where the application is developed as a collection of services. It provides the framework to develop, deploy, and maintain microservices architecture diagrams and services independently. Each microservice is independently scalable. When traffic increases for a specific service, you can scale it independently without affecting others.
 
 ### How would you predict the cost?
